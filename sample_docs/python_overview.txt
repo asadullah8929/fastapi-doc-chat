@@ -1,0 +1,11 @@
+Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented, and functional programming.
+
+Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC programming language. Its implementation began in December 1989. Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his permanent vacation from the role of Python's chief architect.
+
+Python consistently ranks as one of the most popular programming languages. It is used in web development, data science, artificial intelligence, scientific computing, automation, and many other domains. Major organizations that use Python include Google, NASA, CERN, and Instagram.
+
+Python 3.0, released in 2008, was a major revision not completely backward-compatible with earlier versions. Python 2 was officially discontinued with version 2.7.18 in 2020.
+
+The Python Package Index (PyPI) hosts over 400,000 third-party packages. Popular packages include NumPy for numerical computing, pandas for data manipulation, Django and Flask for web development, and TensorFlow and PyTorch for machine learning.
+
+Python uses indentation to delimit code blocks rather than curly braces or keywords. By convention, four spaces per indentation level are used. The language includes comprehensive standard library support for file I/O, system calls, sockets, and even interfaces to graphical user interface toolkits like Tk.
